@@ -93,11 +93,12 @@ a{
     border-collapse: collapse;
 }
 #footer{
-    width: 25rem;
+    width: 20rem;
+    font-size: 0.7rem;
     position: static;
     display: block;
     text-align: center;
-    margin: 5% auto;
+    margin: 0% auto;
     left: 0;
     right: 0;
     bottom: 2rem;

@@ -92,14 +92,21 @@ a{
     table-layout: fixed;
     border-collapse: collapse;
 }
-.footer{
-    width: 15rem;
+#footer{
+    width: 30rem;
     position: static;
+    display: block;
+    text-align: center;
+    margin: 5% auto;
+    left: 0;
+    right: 0;
+    bottom: 2rem;
 }
 .avatar{
     width: 5rem;
 }
 }
+
 #ad{
     color: rgb(200, 200, 200);
 }
